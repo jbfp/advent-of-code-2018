@@ -1,8 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-
 bool AreSameTypeWithDifferentPolarization(char a, char b)
 {
     return a != b && char.ToLowerInvariant(a) == char.ToLowerInvariant(b);
