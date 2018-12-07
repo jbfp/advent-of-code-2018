@@ -7,4 +7,3 @@ echo ""
 
 echo "Part 2"
 time dotnet-script ./part-02.csx
-
